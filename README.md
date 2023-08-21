@@ -4,3 +4,14 @@
 
 ## TODO
 - https://github.com/woncoh1/sss2csv
+- `pandas.read_sas` vs `haven::read_sas`
+- Input
+  - SAS
+  - SPSS
+  - Stata
+  - CSV
+  - Excel
+- Output
+  - CSV
+  - Excel
+  - Arrow
