@@ -15,3 +15,4 @@
   - CSV
   - Excel
   - Arrow
+- Tree traversal for arbitrarily nested folder structure
